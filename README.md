@@ -12,6 +12,8 @@ B.E Artificial Intelligence and Machine learning student at NMAM Institute of Te
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sidharth1919&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-taupe-phi-28.vercel.app/api/top-langs/?username=sidharth1919&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=sidharth1919&style=flat-square)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
